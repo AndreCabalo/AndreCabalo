@@ -1,4 +1,27 @@
-### Hi there 👋
+Sejam bem vindos ao meu perfil de desenvolver 👋
+
+Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
+
+# Meus principais projetos
+
+- URL 1
+
+- URL 2
+
+
+📰 - Atuamente estou trabalhando com projetos parametricos de arquitetura
+
+🌱 - Estou atualmeente apreendendo sobre banco de dados..
+
+✅ - Possuo conhecimento em Python, HTML, CSS, Javascript, Bootstrap, Figma, DataModeler da Oracle
+
+🔭 - Busco projetos no qual eu possa colaborar e melhorar minhas habilidades
+
+💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros
+
+
+
+
 
 <!--
 **AndreCabalo/AndreCabalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
