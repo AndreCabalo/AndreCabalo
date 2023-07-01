@@ -19,6 +19,8 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 
 💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros
 
+📫 - Vocês podem me encontrar atráves do e-mail: andreccabalo@gmail.com
+
 
 
 
