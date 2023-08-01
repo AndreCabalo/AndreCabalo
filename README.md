@@ -9,9 +9,9 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 >- URL 2
 
 
-📰 - Atuamente estou trabalhando com projetos parametricos de arquitetura
+📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
 
-🌱 - Estou atualmeente apreendendo sobre banco de dados..
+🌱 - Estou atualmente apreendendo sobre banco de dados..
 
 ✅ - Possuo conhecimento em Python, HTML, CSS, Javascript, Bootstrap, Figma, DataModeler da Oracle
 
