@@ -4,9 +4,9 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 
 # Meus principais projetos
 
-- URL 1
+>- URL 1
 
-- URL 2
+>- URL 2
 
 
 📰 - Atuamente estou trabalhando com projetos parametricos de arquitetura
