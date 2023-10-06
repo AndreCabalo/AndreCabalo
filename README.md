@@ -4,7 +4,7 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 
 # Meus principais projetos
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecabalo)](https://github.com/andrecabalo/github-readme-stats)
 
 >- URL 2
 
