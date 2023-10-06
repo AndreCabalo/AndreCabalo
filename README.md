@@ -2,11 +2,24 @@ Sejam bem vindos ao meu perfil de desenvolver 👋
 
 Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andrecabalo&show_icons=true&theme=apprentice"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andrecabalo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrecabaloa&show_icons=true" />
+</picture>
+
 # Meus principais projetos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecabalo)](https://github.com/andrecabalo/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrecabalo)](https://github.com/andrecabalo/github-readme-stats)
 
->- URL 2
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=donut)](https://github.com/andrecabalo/github-readme-stats)
 
 
 📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
