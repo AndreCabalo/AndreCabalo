@@ -3,30 +3,20 @@ Sejam bem vindos ao meu perfil de desenvolver 👋
 Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrecabalo&show_icons=true&theme=apprentice"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrecabalo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=andrecabaloa&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecabalo\&bg_color=55,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff\&ring_color=2ff57e)
 
 # Meus principais projetos
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrecabalo)](https://github.com/andrecabalo/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrecabalo\&layout=compact&bg_color=50,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=donut)](https://github.com/andrecabalo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=donut\&bg_color=15,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff)](https://github.com/andrecabalo/github-readme-stats)
 
 
 📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
 
-🌱 - Estou atualmente apreendendo sobre banco de dados..
+🌱 - Estou atualmente apreendendo sobre Design Patterns e a manipular tabelas no banco Oracle com Java - Jdbc11
 
-✅ - Possuo conhecimento em Python, HTML, CSS, Javascript, Bootstrap, Figma, DataModeler da Oracle
+✅ - Possuo conhecimento em Python, Java, Javascript , SQL, HTML, CSS, Bootstrap, Figma, DataModeler da Oracle
 
 🔭 - Busco projetos no qual eu possa colaborar e melhorar minhas habilidades
 
