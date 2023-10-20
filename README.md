@@ -5,8 +5,6 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecabalo\&bg_color=55,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff\&ring_color=2ff57e)
 
-# Meus principais projetos
-
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrecabalo\&layout=compact&bg_color=50,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=donut\&bg_color=15,0c5f7a,bf0d4f\&title_color=fff\&text_color=fff)](https://github.com/andrecabalo/github-readme-stats)
