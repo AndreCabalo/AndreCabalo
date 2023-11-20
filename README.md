@@ -4,7 +4,9 @@ Alguns dados sobre mim:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
 <br>
+<br>
 Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
+<br>
 <br>
 📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
 
