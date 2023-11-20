@@ -2,22 +2,10 @@
 
 Alguns dados sobre mim:
 
-[![wakatime](https://wakatime.com/badge/user/018b0683-66fc-4b34-9aeb-9da11b24a15a.svg)](https://wakatime.com/@018b0683-66fc-4b34-9aeb-9da11b24a15a)
-
-<a href="https://github.com/andrecabalo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrecabalo&layout=compact&bg_color=15,0c5f7a,bf0d4f&title_color=fff&text_color=fff&langs_count=20&card_width=800" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
 <br>
-<br>
-
 Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
-
-<a href="https://github.com/andrecabalo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrecabalo&layout=compact&bg_color=55,0c5f7a,bf0d4f&title_color=fff&text_color=fff&ring_color=2ff57e&card_width=200" />
-</a>
 <br>
-<br>
-
 📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
 
 🌱 - Estou atualmente apreendendo sobre Design Patterns e a manipular tabelas no banco Oracle com Java - Jdbc11
