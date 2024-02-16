@@ -8,11 +8,10 @@ Alguns dados sobre mim:
 Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
 <br>
 <br>
-📰 - Atualmente estou trabalhando com projetos parametricos de arquitetura
 
 🌱 - Estou atualmente apreendendo sobre Design Patterns e a manipular tabelas no banco Oracle com Java - Jdbc11
 
-✅ - Possuo conhecimento em Python, Java, Javascript , SQL, HTML, CSS, Bootstrap, Figma, DataModeler da Oracle
+✅ - Possuo conhecimento em Python, Java, Javascript , SQL, HTML, CSS, Bootstrap, Figma, DataModeler da Oracle, Kotlin e Framework Django
 
 🔭 - Busco projetos no qual eu possa colaborar e melhorar minhas habilidades
 
