@@ -1,6 +1,6 @@
-<h1>Sejam bem vindos ao meu perfil de desenvolver 👋</h1> 
+# Sejam bem vindos ao meu perfil de desenvolver 👋
 
-Alguns dados sobre mim:
+## Alguns dados sobre mim:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
 <br>
@@ -9,10 +9,21 @@ Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compa
 <br>
 <br>
 
-🌱 - Estou atualmente apreendendo sobre Design Patterns e a manipular tabelas no banco Oracle com Java - Jdbc11
+## Possuo conhecimento em:
 
-✅ - Possuo conhecimento em Python, Java, Javascript , SQL, HTML, CSS, Bootstrap, Figma, DataModeler da Oracle, Kotlin e Framework Django
+- Python
+  - FrameWork Django
+ - Kotlin
+  - FrameWork JetpackCompose
+- Java
+- Javascript, HTML, CSS
+  -  FrameWork front-end Bootstrap
+- SQL
+- Figma
+- Data Modeler da Oracle
 
+🌱 - Estou atualmente apreendendo sobre Kotlin - Jetpack compose
+    
 🔭 - Busco projetos no qual eu possa colaborar e melhorar minhas habilidades
 
 💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros
