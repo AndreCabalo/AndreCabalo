@@ -1,43 +1,37 @@
-# Sejam bem vindos ao meu perfil de desenvolver 👋
-
-## Alguns dados sobre mim:
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=700&pause=500&color=F60E56&center=true&vCenter=true&random=false&width=650&height=110&lines=BEM+VINDO;WELCOME;BIENVENIDO;%E6%AD%A1%E8%BF%8E;Herzlich+Willkommen;Velkommen;%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9" alt="Typing SVG" /></a>
+</p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
-<br>
-<br>
-Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meu projetos!
-<br>
-<br>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCabalo&theme=dracula&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=5%2CE90D4BE4%2C69262650&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" />
+  </a>
+</p>
 
-## Possuo conhecimento em:
+<p align="center">Iniciando trabalhos e estudos nesta rede, sinta-se avontade para comentar, compartilhar e testar meus projetos!</p>
 
-- Python
-  - FrameWork Django
- - Kotlin
-  - FrameWork JetpackCompose
-- Java
-- Javascript, HTML, CSS
-  -  FrameWork front-end Bootstrap
-- SQL
-- Figma
-- Data Modeler da Oracle
+<p align="center"> Possuo conhecimento em: </p>
 
-🌱 - Estou atualmente apreendendo sobre Kotlin - Jetpack compose
-    
-🔭 - Busco projetos no qual eu possa colaborar e melhorar minhas habilidades
+<p align="center"> Python | Django | Flask </p>
+     
+<p align="center"> Kotlin | JetPackCompose</p>
 
-💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros
+<p align="center"> Java | Springboot | Data Modeler Oracle </p>
+  
+<p align="center"> Javascript, HTML, CSS | Bootstrap </p>
 
-📫 - Vocês podem me encontrar atráves do e-mail: andreccabalo@gmail.com
+<p align="center"> Framework front-end Bootstrap </p>
+   
+<p align="center"> SQL</p>
+  
+<p align="center"> Figma </p>
 
 
 
 
-<!--
-<a href="https://github.com/andrecabalo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrecabalo&bg_color=55,0c5f7a,bf0d4f&title_color=fff&text_color=fff&ring_color=2ff57e" />
-</a>
-<a href="https://github.com/andrecabalo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecabalo&layout=compact&bg_color=15,0c5f7a,bf0d4f&title_color=fff&text_color=fff&langs_count=8&card_width=320" />
-</a>
--->
+
+<p align="center">🌱 - Estou atualmente aprendendo sobre Kotlin - Jetpack compose</p>
+<p align="center">🔭 - Busco projetos nos quais eu possa colaborar e melhorar minhas habilidades</p>
+<p align="center">💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros</p>
+<p align="center">📫 - Vocês podem me encontrar através do e-mail: andreccabalo@gmail.com</p>
+
