@@ -23,6 +23,8 @@
 
 
 <p align="center"> Python | Django | Flask </p>
+
+<p align="center"> C# | .NET </p>
      
 <p align="center"> Kotlin | JetPackCompose</p>
 
@@ -40,7 +42,7 @@
 
 
 
-<p align="center">🌱 - Estou atualmente aprendendo sobre Kotlin - Jetpack compose</p>
+<p align="center">🌱 - Estou atualmente aprendendo sobre Junit e CI/CD </p>
 <p align="center">🔭 - Busco projetos nos quais eu possa colaborar e melhorar minhas habilidades</p>
 <p align="center">💬 - Aceito todos os tipos de sugestões, como melhoria em projetos e entre outros</p>
 <p align="center">📫 - Vocês podem me encontrar através do e-mail: andreccabalo@gmail.com</p>
