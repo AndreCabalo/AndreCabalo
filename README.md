@@ -22,13 +22,13 @@
 
 
 
+<p align="center"> Java | Springboot | Data Modeler Oracle </p>
+
 <p align="center"> Python | Django | Flask </p>
 
 <p align="center"> C# | .NET </p>
      
 <p align="center"> Kotlin | JetPackCompose</p>
-
-<p align="center"> Java | Springboot | Data Modeler Oracle </p>
   
 <p align="center"> Javascript, HTML, CSS | Bootstrap </p>
 
