@@ -19,12 +19,9 @@
 
 <p align="center"> Possuo conhecimento em: </p>
 
+<p align="center"> Java | Springboot | Mysql </p>
 
-
-
-<p align="center"> Java | Springboot | Data Modeler Oracle </p>
-
-<p align="center"> Python | Django | Flask </p>
+<p align="center"> Python </p>
 
 <p align="center"> C# | .NET </p>
      
