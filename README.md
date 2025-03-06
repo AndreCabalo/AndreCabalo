@@ -8,7 +8,7 @@
 </p>
 <p align="center">
    <a href="https://github.com/andrecabalo">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula&exclude_repo=segundo_semestre_ads,Formacao-Python,formacao_django"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecabalo&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula&exclude_repo=segundo_semestre_ads,Formacao-Python,formacao_django&count_private=true&cache_seconds=1800"/>
 </p>
 
 <p align="center"> Possuo conhecimento em: </p>
