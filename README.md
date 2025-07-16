@@ -1,12 +1,12 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=700&pause=500&color=F60E56&center=true&vCenter=true&random=false&width=650&height=110&lines=BEM+VINDO;WELCOME;BIENVENIDO;%E6%AD%A1%E8%BF%8E;Herzlich+Willkommen;Velkommen;%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9" alt="Typing SVG" /></a>
+</p>
+
 # Seja bem-vindo(a) ao meu GitHub! 
 
 Engenheiro de Software, formado pela FIAP em Análise e Desenvolvimento de Sistemas.
 Focado em construir soluções práticas, modernas e eficientes.
 Minha principal atuação é no backend, com foco em evoluir junto a projetos que tenham impacto real.
-
-
-
-
 
 
 ## Sobre o André Cabalo
@@ -24,9 +24,7 @@ Minha principal atuação é no backend, com foco em evoluir junto a projetos qu
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=700&pause=500&color=F60E56&center=true&vCenter=true&random=false&width=650&height=110&lines=BEM+VINDO;WELCOME;BIENVENIDO;%E6%AD%A1%E8%BF%8E;Herzlich+Willkommen;Velkommen;%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9" alt="Typing SVG" /></a>
-</p>
+
 
 
 <picture>
