@@ -35,6 +35,17 @@ Minha principal atuação é no backend, com foco em evoluir junto a projetos qu
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreCabalo/AndreCabalo/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  
+[![André Cabalo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrecabalo&bg_color=0d1117&color=F60E56&line=F60E56&point=d1056c&area=true&area_color=F60E56&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <img src="https://streak-stats.demolab.com?user=andrecabalo&locale=pt-br&mode=weekly&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> 
+ 
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=andrecabalo&no-bg=true&theme=onedark"/>
+</div>
+
+
 <h2 align="center"> Contact </h2>
 
 <div align="center">
