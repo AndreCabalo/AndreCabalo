@@ -37,9 +37,6 @@ Minha principal atuação é no backend, com foco em evoluir junto a projetos qu
 [![André Cabalo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrecabalo&bg_color=0d1117&color=F60E56&line=F60E56&point=d1056c&area=true&area_color=F60E56&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=andrecabalo&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="156" alt="streak graph"/> 
-</p> 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andrecabalo&no-bg=true&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15&row=2"/>
 </p>
 
